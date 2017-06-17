@@ -6,5 +6,6 @@ public class AA {
 		m1="m2 String";
 		
 		String subStr="sub1";
+		String subStr2="sub2";
 	}
 }
