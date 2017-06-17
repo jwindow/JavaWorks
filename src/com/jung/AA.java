@@ -6,5 +6,7 @@ public class AA {
 		m1="m2 String";
 		m1="m3 String";
 		String m2="mster String";
+		
+		String mmm="mmmm";
 	}
 }
