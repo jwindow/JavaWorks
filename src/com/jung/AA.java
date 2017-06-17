@@ -10,7 +10,9 @@ public class AA {
 		String subStr2="sub2";
 
 		m1="m3 String";
+
 		String m2="mster String";
+
 
 	}
 }
